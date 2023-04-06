@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "p_title": "Maitry Appartment",
+      "P_price": "600000.0",
+      "p_location": "Vaishali, Ghaziabad",
+      "P_details": "2BHK Unfurnished Flat on 2nd Floor"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "Vansh Gupta",
+      "email": "vansh@gmail.com",
+      "mobile": "8765122663",
+      "password": "Vansh@1234"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
